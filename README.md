@@ -521,7 +521,5 @@ databricks bundle run careflow_daily_pipeline -t dev
 
 ---
 
-> **Showcase tip:** Use only **synthetic / de-identified** data (e.g., Synthea-generated FHIR) in your public repo.
-> Pin the 3 dashboards + lineage graph as screenshots, record a 3-minute walkthrough, and link this doc from LinkedIn.
 
 *Built with the Databricks Lakehouse Platform — demonstrating production-grade, compliance-aware healthcare data engineering end to end.*
